@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://szkaym.github.io/resources-cxa6oz/sitemap.xml
